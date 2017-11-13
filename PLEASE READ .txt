@@ -1,0 +1,11 @@
+While designing this website I  design a logo for that virtual company that is ABC company so the logo that you are seeing in the icon in the website  right on the top is designed by me by using a logo makerapp 
+
+
+second in ordered  to do a registration  I use  Google forms which is  linked with  my email account 
+
+
+I added developer profile which means that I link my professional profile on this website you could check it out and that portfolio page is again going to redirect you on my resume that I developed in JavaScript and hosted it on a free hosting platform web host app 
+
+
+
+
